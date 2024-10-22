@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Kunal_Portfolio/static/css/main.18ab4418.css",
-    "main.js": "/Kunal_Portfolio/static/js/main.b708db13.js",
+    "main.js": "/Kunal_Portfolio/static/js/main.6732e973.js",
     "static/js/453.ed3810f9.chunk.js": "/Kunal_Portfolio/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Kunal_Portfolio/index.html",
     "main.18ab4418.css.map": "/Kunal_Portfolio/static/css/main.18ab4418.css.map",
-    "main.b708db13.js.map": "/Kunal_Portfolio/static/js/main.b708db13.js.map",
+    "main.6732e973.js.map": "/Kunal_Portfolio/static/js/main.6732e973.js.map",
     "453.ed3810f9.chunk.js.map": "/Kunal_Portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18ab4418.css",
-    "static/js/main.b708db13.js"
+    "static/js/main.6732e973.js"
   ]
 }
