@@ -8,11 +8,11 @@ const Resume = () => {
     <section id="resume" className="container resume-section">
       <h2 className="text-center mb-4">Resume</h2>
       <p className="text-center">
-        check out my <a href="/Kunal_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+        check out my <a href="https://drive.google.com/file/d/1CgW8sBgEEOXBI3jFCOrl26klJriJX824/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
       </p>
       <div className="d-flex justify-content-center">
         <button className="btn btn-primary">
-          <a href="/Kunal_Resume.pdf" download className="text-white text-decoration-none">
+          <a href="https://drive.google.com/file/d/1CgW8sBgEEOXBI3jFCOrl26klJriJX824/view?usp=drive_link" download className="text-white text-decoration-none">
             Download Resume
           </a>
         </button>
