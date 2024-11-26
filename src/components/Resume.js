@@ -19,7 +19,7 @@ const Resume = () => {
       </div> */}
       <div className="d-flex justify-content-center">
         <button className="btn btn-primary">
-          <a href='https://drive.google.com/file/d/1CgW8sBgEEOXBI3jFCOrl26klJriJX824/view?usp=drive_link' className="text-white text-decoration-none">
+          <a href='https://drive.google.com/file/d/11TtXbZq2cxfFdI3-G_M91IfJgDzPETe5/view?usp=drive_link' className="text-white text-decoration-none">
             Download Resume
           </a>
         </button>
